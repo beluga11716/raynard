@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RAYNARD的BLOG</title><link>https://beluga11716.github.io/raynard</link><description>上一次看 才二十三</description><copyright>RAYNARD的BLOG</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/118863839?s=400&amp;u=9bece6baca5dd48bf3e0deeb51ef27df826c9d15&amp;v=4</url><title>avatar</title><link>https://beluga11716.github.io/raynard</link></image><lastBuildDate>Sun, 01 Mar 2026 16:21:50 +0000</lastBuildDate><managingEditor>RAYNARD的BLOG</managingEditor><ttl>60</ttl><webMaster>RAYNARD的BLOG</webMaster><item><title>如何拥有一个自己的免费博客</title><link>https://beluga11716.github.io/raynard/post/ru-he-yong-you-yi-ge-zi-ji-de-mian-fei-bo-ke.html</link><description>## step1 准备工作
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RAYNARD的BLOG</title><link>https://beluga11716.github.io/raynard</link><description>上一次看 才二十三</description><copyright>RAYNARD的BLOG</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/118863839?s=400&amp;u=9bece6baca5dd48bf3e0deeb51ef27df826c9d15&amp;v=4</url><title>avatar</title><link>https://beluga11716.github.io/raynard</link></image><lastBuildDate>Sun, 01 Mar 2026 16:27:16 +0000</lastBuildDate><managingEditor>RAYNARD的BLOG</managingEditor><ttl>60</ttl><webMaster>RAYNARD的BLOG</webMaster><item><title>如何拥有一个自己的免费博客</title><link>https://beluga11716.github.io/raynard/post/ru-he-yong-you-yi-ge-zi-ji-de-mian-fei-bo-ke.html</link><description>## step1 准备工作
 需要一个github账号 没有的可以点[这里](https://github.com/signup?source=login)创建一个
 
 顺带介绍一下[github](https://zh.wikipedia.org/wiki/GitHub)：
@@ -50,16 +50,17 @@ A comic reader that support reading local and network comics.
 
 下载到软件之后在主页→漫画源 在有url字样的框框里粘贴上面的source链接 导入后等导入成功应该就可以用了
 
-和正常使用漫画软件那样就行 不过有些源是eh和紳士漫畫的 可以挂梯使用 以此规避掉广告
-软件原项目地址
-### comic_source原仓库地址 :https://github.com/venera-app/venera/blob/master/doc/comic_source.md
+和正常使用漫画软件那样就行 有些源是eh和紳士漫畫的 可以挂梯使用 以此规避掉广告
+
+当漫画源失效时可在comic_source[原仓库](https://github.com/venera-app/venera/blob/master/doc/comic_source.md)这里找到最新的source链接
+
 &lt;br&gt;
 &lt;br&gt;
 &lt;br&gt;
 
 # 2026.1.4
 
-## 今天搞了一下云同步的问题
+## 搞了一下云同步的问题
 但是说实话 不是很好用其实 同步很不及时 而且和网络环境很有关系 因此最好还是在切换设备观看时记住页数来手动同步
 
 我们首先需要一个支持webdav的网盘
