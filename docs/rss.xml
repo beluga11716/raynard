@@ -1,5 +1,37 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RAYNARD的BLOG</title><link>https://beluga11716.github.io/raynard</link><description>上一次看 才二十三</description><copyright>RAYNARD的BLOG</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/118863839?s=400&amp;u=9bece6baca5dd48bf3e0deeb51ef27df826c9d15&amp;v=4</url><title>avatar</title><link>https://beluga11716.github.io/raynard</link></image><lastBuildDate>Sun, 01 Mar 2026 12:27:07 +0000</lastBuildDate><managingEditor>RAYNARD的BLOG</managingEditor><ttl>60</ttl><webMaster>RAYNARD的BLOG</webMaster><item><title>漫画软件</title><link>https://beluga11716.github.io/raynard/post/man-hua-ruan-jian.html</link><description># 后面可能出一趴影视剧的
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RAYNARD的BLOG</title><link>https://beluga11716.github.io/raynard</link><description>上一次看 才二十三</description><copyright>RAYNARD的BLOG</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/118863839?s=400&amp;u=9bece6baca5dd48bf3e0deeb51ef27df826c9d15&amp;v=4</url><title>avatar</title><link>https://beluga11716.github.io/raynard</link></image><lastBuildDate>Sun, 01 Mar 2026 15:03:51 +0000</lastBuildDate><managingEditor>RAYNARD的BLOG</managingEditor><ttl>60</ttl><webMaster>RAYNARD的BLOG</webMaster><item><title>如何拥有一个自己的免费博客</title><link>https://beluga11716.github.io/raynard/post/ru-he-yong-you-yi-ge-zi-ji-de-mian-fei-bo-ke.html</link><description>## step1 准备工作
+需要一个github账号 没有的可以点[这里](https://github.com/signup?source=login)创建一个
+
+顺带介绍一下[github](https://zh.wikipedia.org/wiki/GitHub)：
+github是世界上最大的代码托管平台 上面有很多免费开源好用的项目 
+
+其中这个免费博客的来源也是基于上面的一个项目叫做[gmeek](https://github.com/Meekdai/Gmeek)实现的
+
+## step2 创建仓库
+创建一个blog仓库 用于在github上存储你的博客文章 通过点击[模板](https://github.com/new?template_name=Gmeek-template&amp;template_owner=Meekdai)创建一个仓库 仓库名称可任意
+接着启用就行 
+
+## step3
+进入仓库后可看到下面这个页面 点settings 
+
+&lt;img width='1001' height='454' alt='Image' src='https://github.com/user-attachments/assets/456acbb8-ea18-4f5d-9041-be3692b9b3ac' /&gt; 
+
+点右边的 **_Pages-&gt;Build and deployment-&gt;Source_** 下面选择Github Actions
+
+&lt;img width='454' height='188' alt='Image' src='https://github.com/user-attachments/assets/80288537-d93f-4bae-893e-84ff4726455e' /&gt;
+
+跳转到actions选项 点左侧栏build gmeek 右边有一个run workflow选项 点击后等待变成✅即可
+
+## step3 开始写作
+
+回到仓库 点上面的issues 点new issues 然后给一个title 后面正文写内容 在写完后记得在右边的labels选项中选一个label 
+
+**_没有label是不会推送到网页的_** 
+
+接着保存issues gmeek会自动上传issues到博客网页上
+
+# 其他人的教程
+。</description><guid isPermaLink="true">https://beluga11716.github.io/raynard/post/ru-he-yong-you-yi-ge-zi-ji-de-mian-fei-bo-ke.html</guid><pubDate>Sun, 01 Mar 2026 15:03:22 +0000</pubDate></item><item><title>漫画软件</title><link>https://beluga11716.github.io/raynard/post/man-hua-ruan-jian.html</link><description># 后面可能出一趴影视剧的
 
 # NO.1
 # **_- Venera_**  
