@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RAYNARD的BLOG</title><link>https://beluga11716.github.io/raynard</link><description>上一次看 才二十三</description><copyright>RAYNARD的BLOG</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/118863839?s=400&amp;u=9bece6baca5dd48bf3e0deeb51ef27df826c9d15&amp;v=4</url><title>avatar</title><link>https://beluga11716.github.io/raynard</link></image><lastBuildDate>Mon, 02 Mar 2026 07:31:03 +0000</lastBuildDate><managingEditor>RAYNARD的BLOG</managingEditor><ttl>60</ttl><webMaster>RAYNARD的BLOG</webMaster><item><title>如何拥有一个自己的免费博客</title><link>https://beluga11716.github.io/raynard/post/ru-he-yong-you-yi-ge-zi-ji-de-mian-fei-bo-ke.html</link><description>## step1 准备工作
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RAYNARD的BLOG</title><link>https://beluga11716.github.io/raynard</link><description>上一次看 才二十三</description><copyright>RAYNARD的BLOG</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/118863839?s=400&amp;u=9bece6baca5dd48bf3e0deeb51ef27df826c9d15&amp;v=4</url><title>avatar</title><link>https://beluga11716.github.io/raynard</link></image><lastBuildDate>Mon, 02 Mar 2026 07:41:48 +0000</lastBuildDate><managingEditor>RAYNARD的BLOG</managingEditor><ttl>60</ttl><webMaster>RAYNARD的BLOG</webMaster><item><title>如何拥有一个自己的免费博客</title><link>https://beluga11716.github.io/raynard/post/ru-he-yong-you-yi-ge-zi-ji-de-mian-fei-bo-ke.html</link><description>## step1 准备工作
 需要一个github账号 没有的可以点[这里](https://github.com/signup?source=login)创建一个
 
 顺带介绍一下[github](https://zh.wikipedia.org/wiki/GitHub)：
@@ -126,15 +126,25 @@ _下载链接：https://github.com/open-ani/animeko/releases/tag/v5.2.0_
 
 快速激活windows 10 / 11
 
-Win就是Ctrl和Alt之间的那个键。</description><guid isPermaLink="true">https://beluga11716.github.io/raynard/post/ji-huo-windows.html</guid><pubDate>Sun, 01 Mar 2026 11:03:56 +0000</pubDate></item><item><title>下载Trollstore巨魔商店</title><link>https://beluga11716.github.io/raynard/post/xia-zai-Trollstore-ju-mo-shang-dian.html</link><description>## 苹果ipa自签名应用巨魔商店
+Win就是Ctrl和Alt之间的那个键。</description><guid isPermaLink="true">https://beluga11716.github.io/raynard/post/ji-huo-windows.html</guid><pubDate>Sun, 01 Mar 2026 11:03:56 +0000</pubDate></item><item><title>下载Trollstore巨魔商店</title><link>https://beluga11716.github.io/raynard/post/xia-zai-Trollstore-ju-mo-shang-dian.html</link><description># 苹果ipa自签名应用巨魔商店
 
 通過巨魔商店让你的非官方ipa应用能够安装在设备上 并永久签名
 
-用TrollRestore.exe来安装 
+## step1 准备工作
 
-[點此下載](https://wwbaq.lanzouu.com/ikbNE3ff7dsh)
+- 一台正常运行的Windows电脑 要能够正常连接你的苹果设备
 
-密碼：beluga
+- 一部能正常连接电脑的苹果设备
+
+&lt;br&gt;
+
+## step2 安装TrollRestore
+
+[點此下載](https://wwbaq.lanzouu.com/ikbNE3ff7dsh) 密碼：beluga
+
+&lt;br&gt;
+
+## step3 安装Trollstore
 
 先把你的设备接到电脑上 电脑提示已连接你的设备后 点开 TrollRestore.exe
 

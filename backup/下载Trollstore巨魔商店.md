@@ -1,12 +1,22 @@
-## 苹果ipa自签名应用巨魔商店
+# 苹果ipa自签名应用巨魔商店
 
 通過巨魔商店让你的非官方ipa应用能够安装在设备上 并永久签名
 
-用TrollRestore.exe来安装 
+## step1 准备工作
 
-[點此下載](https://wwbaq.lanzouu.com/ikbNE3ff7dsh)
+- 一台正常运行的Windows电脑 要能够正常连接你的苹果设备
 
-密碼：beluga
+- 一部能正常连接电脑的苹果设备
+
+<br>
+
+## step2 安装TrollRestore
+
+[點此下載](https://wwbaq.lanzouu.com/ikbNE3ff7dsh) 密碼：beluga
+
+<br>
+
+## step3 安装Trollstore
 
 先把你的设备接到电脑上 电脑提示已连接你的设备后 点开 TrollRestore.exe
 
