@@ -46,7 +46,7 @@ _**shadowrocket 的话放个AppStore的链接吧 需要有外区apple account才
 <br>
 
 ## 跳转到Pt2＆3↓
-[**Pt.2关于如何使用代理软件以进行科学上网**](https://blog.superbeluga.top/post/magic%20internet%20Pt.2.html)
+Pt.2关于如何使用代理软件以进行科学上网
 [**Pt.3不同代理的使用方法**](https://blog.superbeluga.top/post/Magic%20Internet%20Pt.3.html)
 
 <br>
