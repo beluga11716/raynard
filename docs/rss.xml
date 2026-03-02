@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RAYNARD的BLOG</title><link>https://beluga11716.github.io/raynard</link><description>上一次看 才二十三</description><copyright>RAYNARD的BLOG</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/118863839?s=400&amp;u=9bece6baca5dd48bf3e0deeb51ef27df826c9d15&amp;v=4</url><title>avatar</title><link>https://beluga11716.github.io/raynard</link></image><lastBuildDate>Sun, 01 Mar 2026 16:27:16 +0000</lastBuildDate><managingEditor>RAYNARD的BLOG</managingEditor><ttl>60</ttl><webMaster>RAYNARD的BLOG</webMaster><item><title>如何拥有一个自己的免费博客</title><link>https://beluga11716.github.io/raynard/post/ru-he-yong-you-yi-ge-zi-ji-de-mian-fei-bo-ke.html</link><description>## step1 准备工作
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RAYNARD的BLOG</title><link>https://beluga11716.github.io/raynard</link><description>上一次看 才二十三</description><copyright>RAYNARD的BLOG</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/118863839?s=400&amp;u=9bece6baca5dd48bf3e0deeb51ef27df826c9d15&amp;v=4</url><title>avatar</title><link>https://beluga11716.github.io/raynard</link></image><lastBuildDate>Mon, 02 Mar 2026 07:12:43 +0000</lastBuildDate><managingEditor>RAYNARD的BLOG</managingEditor><ttl>60</ttl><webMaster>RAYNARD的BLOG</webMaster><item><title>如何拥有一个自己的免费博客</title><link>https://beluga11716.github.io/raynard/post/ru-he-yong-you-yi-ge-zi-ji-de-mian-fei-bo-ke.html</link><description>## step1 准备工作
 需要一个github账号 没有的可以点[这里](https://github.com/signup?source=login)创建一个
 
 顺带介绍一下[github](https://zh.wikipedia.org/wiki/GitHub)：
@@ -87,39 +87,28 @@ A comic reader that support reading local and network comics.
 
 
 
-。</description><guid isPermaLink="true">https://beluga11716.github.io/raynard/post/man-hua-ruan-jian.html</guid><pubDate>Sun, 01 Mar 2026 11:07:37 +0000</pubDate></item><item><title>动漫软件</title><link>https://beluga11716.github.io/raynard/post/dong-man-ruan-jian.html</link><description># NO.1
+。</description><guid isPermaLink="true">https://beluga11716.github.io/raynard/post/man-hua-ruan-jian.html</guid><pubDate>Sun, 01 Mar 2026 11:07:37 +0000</pubDate></item><item><title>动漫软件</title><link>https://beluga11716.github.io/raynard/post/dong-man-ruan-jian.html</link><description># **_- kazumi_** 
 
-## 基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率
+基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率
 
-&gt; &lt;img width='345' height='323' alt='Image' src='https://github.com/user-attachments/assets/1b353f5a-41c3-4e4b-a3ba-85d31d4c654b' /&gt;
+&gt; &lt;img width='100' height='100' alt='Image' src='https://github.com/user-attachments/assets/1b353f5a-41c3-4e4b-a3ba-85d31d4c654b' /&gt;
 
-- ## 萌萌的看板 d(d＇∀＇)
 &lt;br&gt;
 
-## _原项目地址：https://github.com/Predidit/Kazumi?tab=readme-ov-file_
+_原项目地址：https://github.com/Predidit/Kazumi?tab=readme-ov-file_
  
-## _下载链接(◔౪◔)：https://github.com/Predidit/Kazumi/releases/tag/1.9.3_
+_下载链接：https://github.com/Predidit/Kazumi/releases/tag/1.9.3_
 
-## 食用方法：直接打开看就行 点那些有绿色标志的然后进去加载一会这样 嫌kazumi要自己检查更新源和要自己负责同步的可以用NO.2的animeko
-
-# NO.2 
 # **_- animeko_** 
 
-## 适合大部分人简单几乎没有什么广告的看动漫 有一说一其实比kazumi要好得多
+很方便的动漫软件 但是自定义程度和动画丝滑度没有kazumi那么好
 
-&lt;img width='600' height='600' alt='Image' src='https://github.com/user-attachments/assets/ed0b5c85-d47c-478e-8111-133318eca943' /&gt;
+&lt;img width='100' height='100' alt='Image' src='https://github.com/user-attachments/assets/ed0b5c85-d47c-478e-8111-133318eca943' /&gt;
 
-## _原项目地址：https://github.com/open-ani/animeko_
-## _下载链接：https://github.com/open-ani/animeko/releases/tag/v5.2.0_
-## 食用方法：下载下来直接用就行 真的非常简单 而且非常nb 不需要自己选源 会自己匹配这样 动画也非常丝滑 会自动更新源 登录可以自己云同步 适合大部分人简单无广告的看动漫 当然有些源就是有广告的自己换一下找一找这样 很简单
-## （ ~~但是没萌萌的看板所以排下面~~ ）
+_原项目地址：https://github.com/open-ani/animeko_
+_下载链接：https://github.com/open-ani/animeko/releases/tag/v5.2.0_
 
-# 2026.1.4
-## 关于kazumi云同步：
 
-&gt; https://blog.superbeluga.top/post/comic%20App.html
-
-## 往下翻翻就可以找到教程
 。</description><guid isPermaLink="true">https://beluga11716.github.io/raynard/post/dong-man-ruan-jian.html</guid><pubDate>Sun, 01 Mar 2026 11:06:52 +0000</pubDate></item><item><title>新机必备</title><link>https://beluga11716.github.io/raynard/post/xin-ji-bi-bei.html</link><description>新机必备：https://wwbaq.lanzouu.com/b009huh8tc
 密码：beluga
 一些上网科技相关的网站：https://c.c1nd.cn/raynard_tech
