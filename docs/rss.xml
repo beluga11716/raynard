@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RAYNARD的BLOG</title><link>https://beluga11716.github.io/raynard</link><description>上一次看 才二十三</description><copyright>RAYNARD的BLOG</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/118863839?s=400&amp;u=9bece6baca5dd48bf3e0deeb51ef27df826c9d15&amp;v=4</url><title>avatar</title><link>https://beluga11716.github.io/raynard</link></image><lastBuildDate>Tue, 03 Mar 2026 01:10:44 +0000</lastBuildDate><managingEditor>RAYNARD的BLOG</managingEditor><ttl>60</ttl><webMaster>RAYNARD的BLOG</webMaster><item><title>如何拥有一个自己的免费博客</title><link>https://beluga11716.github.io/raynard/post/ru-he-yong-you-yi-ge-zi-ji-de-mian-fei-bo-ke.html</link><description>## step1 准备工作
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RAYNARD的BLOG</title><link>https://beluga11716.github.io/raynard</link><description>上一次看 才二十三</description><copyright>RAYNARD的BLOG</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/118863839?s=400&amp;u=9bece6baca5dd48bf3e0deeb51ef27df826c9d15&amp;v=4</url><title>avatar</title><link>https://beluga11716.github.io/raynard</link></image><lastBuildDate>Tue, 03 Mar 2026 01:12:46 +0000</lastBuildDate><managingEditor>RAYNARD的BLOG</managingEditor><ttl>60</ttl><webMaster>RAYNARD的BLOG</webMaster><item><title>如何拥有一个自己的免费博客</title><link>https://beluga11716.github.io/raynard/post/ru-he-yong-you-yi-ge-zi-ji-de-mian-fei-bo-ke.html</link><description>## step1 准备工作
 需要一个github账号 没有的可以点[这里](https://github.com/signup?source=login)创建一个
 
 &gt; [!TIP]
@@ -255,11 +255,9 @@ _网易邮箱格式为：你的手机号@163.com_
 
 根据你用的代理软件 点击复制链接 在机场的操作就完成了
 
-[Pt.3不同代理的使用方法](https://blog.superbeluga.top/post/pt.3.html)。</description><guid isPermaLink="true">https://beluga11716.github.io/raynard/post/pt.2.html</guid><pubDate>Sun, 01 Mar 2026 10:57:23 +0000</pubDate></item><item><title>pt.1</title><link>https://beluga11716.github.io/raynard/post/pt.1.html</link><description>**_一篇关于科学上网的笔记_**
+[Pt.3不同代理的使用方法](https://blog.superbeluga.top/post/pt.3.html)。</description><guid isPermaLink="true">https://beluga11716.github.io/raynard/post/pt.2.html</guid><pubDate>Sun, 01 Mar 2026 10:57:23 +0000</pubDate></item><item><title>pt.1</title><link>https://beluga11716.github.io/raynard/post/pt.1.html</link><description>**_一篇关于代理上网的笔记_**
 
-分成三part来看吧
-
-# **Pt1目前比较热门的代理软件有**
+# **Pt1比较热门的代理软件有**
 
 ## - **_Clash Verge_**
 
