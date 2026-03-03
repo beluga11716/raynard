@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RAYNARD的BLOG</title><link>https://beluga11716.github.io/raynard</link><description>上一次看 才二十三</description><copyright>RAYNARD的BLOG</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/118863839?s=400&amp;u=9bece6baca5dd48bf3e0deeb51ef27df826c9d15&amp;v=4</url><title>avatar</title><link>https://beluga11716.github.io/raynard</link></image><lastBuildDate>Tue, 03 Mar 2026 00:53:38 +0000</lastBuildDate><managingEditor>RAYNARD的BLOG</managingEditor><ttl>60</ttl><webMaster>RAYNARD的BLOG</webMaster><item><title>如何拥有一个自己的免费博客</title><link>https://beluga11716.github.io/raynard/post/ru-he-yong-you-yi-ge-zi-ji-de-mian-fei-bo-ke.html</link><description>## step1 准备工作
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RAYNARD的BLOG</title><link>https://beluga11716.github.io/raynard</link><description>上一次看 才二十三</description><copyright>RAYNARD的BLOG</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/118863839?s=400&amp;u=9bece6baca5dd48bf3e0deeb51ef27df826c9d15&amp;v=4</url><title>avatar</title><link>https://beluga11716.github.io/raynard</link></image><lastBuildDate>Tue, 03 Mar 2026 00:56:06 +0000</lastBuildDate><managingEditor>RAYNARD的BLOG</managingEditor><ttl>60</ttl><webMaster>RAYNARD的BLOG</webMaster><item><title>如何拥有一个自己的免费博客</title><link>https://beluga11716.github.io/raynard/post/ru-he-yong-you-yi-ge-zi-ji-de-mian-fei-bo-ke.html</link><description>## step1 准备工作
 需要一个github账号 没有的可以点[这里](https://github.com/signup?source=login)创建一个
 
 &gt; [!TIP]
@@ -26,7 +26,8 @@
 
 回到仓库 点上面的issues 点new issues 然后给一个title 后面正文写内容 在写完后记得在右边的labels选项中选一个label 
 
-**_没有label是不会推送到网页的_** 
+&gt; [!IMPORTANT]
+&gt; **_没有label是不会推送到网页的_** 
 
 接着保存issues gmeek会自动上传issues到博客网页上
 
