@@ -1,8 +1,7 @@
 
 ## Pt.3 不同代理的使用方法
 
-先来clash for andriod的吧
-
+## 1.Clash meta for Andriod
 
 <img width="200" height="500" alt="Image" src="https://github.com/user-attachments/assets/ef945334-23e7-4d16-9cdb-cbc97307a55f" />
 
@@ -11,6 +10,8 @@
 点击配置→右上角加号→从url导入→把链接复制进来→直接保存 回到主页面点击启动 第一次的话同意使用vpn即可
 
 然后直接在主页面点击启动就可以用了 
+
+## 2.Clash verge
 
 Clash verge和Clash meta差不多
 
@@ -31,7 +32,7 @@ Clash verge和Clash meta差不多
 直接选允许访问就行
 然后继续使用就行
 
-# - **_ShadowRocket_**
+## 3.ShadowRocket
 
 <img width="320" height="427" alt="Image" src="https://github.com/user-attachments/assets/49e1213f-dbcc-43ed-8aa8-4bb95d85d67e" />
 
@@ -40,8 +41,8 @@ Clash verge和Clash meta差不多
 
 <img width="320" height="427" alt="Image" src="https://github.com/user-attachments/assets/fea41a27-83f7-4121-b969-edabe9443757" />
 
-## 同样粘贴url链接 回到主页后 右上角开关打开 通知栏会出现vpn字样 就可以科学上网了
+同样粘贴url链接 回到主页后 右上角开关打开 通知栏会出现vpn字样 就可以科学上网了
 
-# - **_V2rayN&V2rayNG_**
+## 4.V2rayN&V2rayNG
 
 可参考[Pt.0](https://blog.superbeluga.top/post/pt.0.html)
