@@ -2,12 +2,12 @@
 
 # **Pt1比较热门的代理软件有**
 
-## - **_Clash Verge_**
+ - **_Clash Verge_**
 
 
 <img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/c849f65d-d4bf-4562-8f65-29b5d4c5b469" />
 
-## - **_同时有Clash Meta for android_** 
+ - **_同时有Clash Meta for android_** 
 
 > [!TIP]
 > 用于安卓手机上使用
@@ -15,14 +15,14 @@
 <img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/f0e9cbba-ee58-49f4-ba31-647016230858" />
 
 
-## - **_V2rayN_**
+ - **_V2rayN_**
 
 <img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/4d8cb66a-59d3-472f-aaa4-aae00480faa6" />
 
 > [!TIP]
 > 同时有V2rayNG用于安卓手机上使用
 
-## - **_ShadowRocket_**
+ - **_ShadowRocket_**
 
 <img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/9319deb8-7f76-4737-b5b2-4af59414eb68" />
 
@@ -30,7 +30,8 @@
 
 
 
-下载链接如下
+## 下载链接
+
 Clash Verge for Windows 下载链接：https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/v2.4.4
 Clash Meta for Android 下载链接：https://wwbaq.lanzouu.com/iCtNO3euks9a
 V2rayN 下载地址：https://github.com/2dust/v2rayN/releases
