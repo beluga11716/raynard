@@ -32,17 +32,19 @@
 
 ## 下载链接
 
-Clash Verge for Windows 下载链接：https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/v2.4.4
-Clash Meta for Android 下载链接：https://wwbaq.lanzouu.com/iCtNO3euks9a
-V2rayN 下载地址：https://github.com/2dust/v2rayN/releases
-V2rayNG下载地址：https://github.com/2dust/v2rayNG/releases
-releases页面点Assets选项就会有下载的直链
-_**shadowrocket 的话放个AppStore的链接吧 需要有外区apple account才能使用**_
-AppStore 链接:https://apps.apple.com/sg/app/shadowrocket/id932747118
+- _**[Clash Verge for Windows](https://github.com/clash-verge-rev/clash-verge-rev/releases)**_
+- _**[Clash Meta for Android](https://wwbaq.lanzouu.com/iCtNO3euks9a) 密码：beluga**_
+- _**[V2rayN](https://github.com/2dust/v2rayN/releases)**_
+- _**[V2rayNG](https://github.com/2dust/v2rayNG/releases)**_
+
+以上都为releases页面 点Assets选项就会有下载的直链
+> [!TIP]
+> _**shadowrocket需要有外区apple account才能使用**_
+[ShadowRocket](https://apps.apple.com/sg/app/shadowrocket/id932747118)
 
 <br>
 
-跳转到Pt2＆3↓
+## 跳转到Pt2＆3↓
 [Pt.2关于如何使用代理软件以进行科学上网](https://blog.superbeluga.top/post/pt.2.html)
 [**Pt.3不同代理的使用方法**](https://blog.superbeluga.top/post/pt.3.html)
 
