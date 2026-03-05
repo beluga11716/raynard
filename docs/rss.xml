@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RAYNARD的BLOG</title><link>https://beluga11716.github.io/raynard</link><description>上一次看 才二十三</description><copyright>RAYNARD的BLOG</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/118863839?s=400&amp;u=9bece6baca5dd48bf3e0deeb51ef27df826c9d15&amp;v=4</url><title>avatar</title><link>https://beluga11716.github.io/raynard</link></image><lastBuildDate>Thu, 05 Mar 2026 14:38:20 +0000</lastBuildDate><managingEditor>RAYNARD的BLOG</managingEditor><ttl>60</ttl><webMaster>RAYNARD的BLOG</webMaster><item><title>如何拥有一个自己的免费博客</title><link>https://beluga11716.github.io/raynard/post/ru-he-yong-you-yi-ge-zi-ji-de-mian-fei-bo-ke.html</link><description>## step1 准备工作
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RAYNARD的BLOG</title><link>https://beluga11716.github.io/raynard</link><description>上一次看 才二十三</description><copyright>RAYNARD的BLOG</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/118863839?s=400&amp;u=9bece6baca5dd48bf3e0deeb51ef27df826c9d15&amp;v=4</url><title>avatar</title><link>https://beluga11716.github.io/raynard</link></image><lastBuildDate>Thu, 05 Mar 2026 14:44:48 +0000</lastBuildDate><managingEditor>RAYNARD的BLOG</managingEditor><ttl>60</ttl><webMaster>RAYNARD的BLOG</webMaster><item><title>如何拥有一个自己的免费博客</title><link>https://beluga11716.github.io/raynard/post/ru-he-yong-you-yi-ge-zi-ji-de-mian-fei-bo-ke.html</link><description>## step1 准备工作
 需要一个github账号 没有的可以点[这里](https://github.com/signup?source=login)创建一个
 
 &gt; [!TIP]
@@ -35,7 +35,9 @@
 
 ## 其他人的教程
 
-`Gmeek-html&lt;iframe src='//player.bilibili.com/player.html?isOutside=true&amp;aid=1305790042&amp;bvid=BV1GM4m1m7ZD&amp;cid=1588230883&amp;p=1' scrolling='no' border='0' frameborder='no' framespacing='0' allowfullscreen='true'&gt;&lt;/iframe&gt;`
+`Gmeek-html&lt;div style='position: relative; padding: 30% 45%;'&gt;
+&lt;iframe style='position: absolute; width: 100%; height: 100%; left: 0; top: 0;' src='//www.bilibili.com/blackboard/html5mobileplayer.html?aid=1305790042&amp;bvid=BV1GM4m1m7ZD&amp;cid=1588230883&amp;p=1' scrolling='no' border='0' frameborder='no' framespacing='0' allowfullscreen='true'&gt;&lt;/iframe&gt;' frameborder='no' scrolling='no'&gt;&lt;/iframe&gt;
+&lt;/div&gt;`
 
 
 [gmeek原教程](https://blog.meekdai.com/post/Gmeek-kuai-su-shang-shou.html)
