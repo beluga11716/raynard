@@ -1,12 +1,48 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RAYNARD的BLOG</title><link>https://beluga11716.github.io/raynard</link><description>it's not hard.it's just new</description><copyright>RAYNARD的BLOG</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/118863839?s=400&amp;u=9bece6baca5dd48bf3e0deeb51ef27df826c9d15&amp;v=4</url><title>avatar</title><link>https://beluga11716.github.io/raynard</link></image><lastBuildDate>Mon, 09 Mar 2026 02:34:28 +0000</lastBuildDate><managingEditor>RAYNARD的BLOG</managingEditor><ttl>60</ttl><webMaster>RAYNARD的BLOG</webMaster><item><title>音乐下载本地部署教程</title><link>https://beluga11716.github.io/raynard/post/yin-le-xia-zai-ben-di-bu-shu-jiao-cheng.html</link><description># 音乐下载本地部署教程
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RAYNARD的BLOG</title><link>https://beluga11716.github.io/raynard</link><description>it's not hard.it's just new</description><copyright>RAYNARD的BLOG</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/118863839?s=400&amp;u=9bece6baca5dd48bf3e0deeb51ef27df826c9d15&amp;v=4</url><title>avatar</title><link>https://beluga11716.github.io/raynard</link></image><lastBuildDate>Thu, 12 Mar 2026 03:35:53 +0000</lastBuildDate><managingEditor>RAYNARD的BLOG</managingEditor><ttl>60</ttl><webMaster>RAYNARD的BLOG</webMaster><item><title>音乐下载本地部署教程</title><link>https://beluga11716.github.io/raynard/post/yin-le-xia-zai-ben-di-bu-shu-jiao-cheng.html</link><description># 音乐下载本地部署教程
 
-急用的话可以先用[这个](https://ydl.baka.plus/)
+&gt; [!TIP]
+&gt;急用的话可以先用[这个](https://ydl.baka.plus/)
+
 来源是 [网易云音乐无损解析](https://github.com/Suxiaoqinx/Netease_url)
 其仓库主页也有本地部署教程 并且有[在线的网页](https://wyapi.toubiec.cn/) 但是偶尔会失效 所以最好还是本地部署 以便随时可用
 
 &gt; [!IMPORTANT]
-&gt; 本地部署不可用的时候记得回到github的仓库页面查看最新修改发布的仓库
+&gt; 本地部署不可用的时候记得回到github的仓库页面查看最新修改发布的markdown文件
+
+## step1 准备工作
+1.需要为你的电脑准备git环境以方便克隆项目 点此[下载](https://registry.npmmirror.com/-/binary/git-for-windows/v2.52.0.windows.1/Git-2.52.0-64-bit.exe) 
+2.为你的电脑安装python 安装
+
+
+
+
+
+
+
+
+
+
+
+
+## step2 克隆项目
+在你想部署的位置新建一个文件夹 比如桌面上 把文件夹名字改成英文 比如说wangyiyun然后点进文件夹 点击图示的那个框 
+
+&lt;img width='1117' height='631' alt='Image' src='https://github.com/user-attachments/assets/5fc0515a-be9b-4b7b-a023-edb908386a85' /&gt;
+
+可以输入东西 然后我们输入cmd后回车 就会出现命令行窗口 如下图所示 
+
+&lt;img width='1483' height='762' alt='Image' src='https://github.com/user-attachments/assets/2c77e0e2-7379-4c6f-967c-0cb948638f40' /&gt;
+
+接着复制下面这串代码 
+```
+git clone https://github.com/Suxiaoqinx/Netease_url.git
+cd Netease_url
+```
+直接粘贴进去 然后就会自己开始克隆项目到本地了
+
+
+
 
 
 。</description><guid isPermaLink="true">https://beluga11716.github.io/raynard/post/yin-le-xia-zai-ben-di-bu-shu-jiao-cheng.html</guid><pubDate>Thu, 05 Mar 2026 15:12:23 +0000</pubDate></item><item><title>如何拥有一个自己的免费博客</title><link>https://beluga11716.github.io/raynard/post/ru-he-yong-you-yi-ge-zi-ji-de-mian-fei-bo-ke.html</link><description>## step1 准备工作
