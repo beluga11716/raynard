@@ -19,19 +19,30 @@
 > 本地部署不可用的时候记得回到github的仓库页面查看最新修改发布的markdown文件
 
 ## step1 准备工作
-1.需要为你的电脑准备git环境以方便克隆项目 点此[下载](https://registry.npmmirror.com/-/binary/git-for-windows/v2.52.0.windows.1/Git-2.52.0-64-bit.exe) 
+1.需要为你的电脑准备git环境以方便克隆项目 点此[下载](https://registry.npmmirror.com/-/binary/git-for-windows/v2.52.0.windows.1/Git-2.52.0-64-bit.exe) git
+
 2.为你的电脑安装python 安装
+安装python有两种方法 
+​法一：微软商店安装 点开你电脑的微软商店 直接搜索python下载即可
 
+法二：官网安装 点此进入python[下载页](https://www.python.org/downloads/windows/) 
 
+尽量​选择最新的stable版（稳定版）下载 
 
+​安装完后win+r 输入powershell回车进入命令行窗口 复制粘贴下面代码检查python和git是否安装成功
 
+检查python：
+```
+python --version
+```
+检查git：
+```
+git --version
+```
 
+显示出版本号即为成功 如下图所示
 
-
-
-
-
-
+<img width='495' height='97' alt='Image' src='https://github.com/user-attachments/assets/29973ced-407a-469e-a646-f8777b015448' />
 
 ## step2 克隆项目
 在你想部署的位置新建一个文件夹 比如桌面上 把文件夹名字改成英文 比如说wangyiyun然后点进文件夹 点击图示的那个框 
@@ -47,7 +58,13 @@
 git clone https://github.com/Suxiaoqinx/Netease_url.git
 cd Netease_url
 ```
-直接粘贴进去 然后就会自己开始克隆项目到本地了
+直接粘贴进去 然后电脑就会自己开始克隆项目到本地了
+
+## step3 安装依赖 
+等待克隆完成 可以再次输入命令后 复制粘贴以下代码
+```
+pip install -r requirements.txt
+```
 
 
 
@@ -67,19 +84,30 @@ cd Netease_url
 > 本地部署不可用的时候记得回到github的仓库页面查看最新修改发布的markdown文件
 
 ## step1 准备工作
-1.需要为你的电脑准备git环境以方便克隆项目 点此[下载](https://registry.npmmirror.com/-/binary/git-for-windows/v2.52.0.windows.1/Git-2.52.0-64-bit.exe) 
+1.需要为你的电脑准备git环境以方便克隆项目 点此[下载](https://registry.npmmirror.com/-/binary/git-for-windows/v2.52.0.windows.1/Git-2.52.0-64-bit.exe) git
+
 2.为你的电脑安装python 安装
+安装python有两种方法 
+​法一：微软商店安装 点开你电脑的微软商店 直接搜索python下载即可
 
+法二：官网安装 点此进入python[下载页](https://www.python.org/downloads/windows/) 
 
+尽量​选择最新的stable版（稳定版）下载 
 
+​安装完后win+r 输入powershell回车进入命令行窗口 复制粘贴下面代码检查python和git是否安装成功
 
+检查python：
+```
+python --version
+```
+检查git：
+```
+git --version
+```
 
+显示出版本号即为成功 如下图所示
 
-
-
-
-
-
+<img width='495' height='97' alt='Image' src='https://github.com/user-attachments/assets/29973ced-407a-469e-a646-f8777b015448' />
 
 ## step2 克隆项目
 在你想部署的位置新建一个文件夹 比如桌面上 把文件夹名字改成英文 比如说wangyiyun然后点进文件夹 点击图示的那个框 
@@ -95,7 +123,13 @@ cd Netease_url
 git clone https://github.com/Suxiaoqinx/Netease_url.git
 cd Netease_url
 ```
-直接粘贴进去 然后就会自己开始克隆项目到本地了
+直接粘贴进去 然后电脑就会自己开始克隆项目到本地了
+
+## step3 安装依赖 
+等待克隆完成 可以再次输入命令后 复制粘贴以下代码
+```
+pip install -r requirements.txt
+```
 
 
 
@@ -180,8 +214,21 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
 <div class="markdown-alert markdown-alert-important"><p class="markdown-alert-title"><svg class="octicon octicon-report mr-2" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="M0 1.75C0 .784.784 0 1.75 0h12.5C15.216 0 16 .784 16 1.75v9.5A1.75 1.75 0 0 1 14.25 13H8.06l-2.573 2.573A1.458 1.458 0 0 1 3 14.543V13H1.75A1.75 1.75 0 0 1 0 11.25Zm1.75-.25a.25.25 0 0 0-.25.25v9.5c0 .138.112.25.25.25h2a.75.75 0 0 1 .75.75v2.19l2.72-2.72a.749.749 0 0 1 .53-.22h6.5a.25.25 0 0 0 .25-.25v-9.5a.25.25 0 0 0-.25-.25Zm7 2.25v2.5a.75.75 0 0 1-1.5 0v-2.5a.75.75 0 0 1 1.5 0ZM9 9a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path></svg>Important</p><p>本地部署不可用的时候记得回到github的仓库页面查看最新修改发布的markdown文件</p>
 </div>
 <h2>step1 准备工作</h2>
-<p>1.需要为你的电脑准备git环境以方便克隆项目 点此<a href="https://registry.npmmirror.com/-/binary/git-for-windows/v2.52.0.windows.1/Git-2.52.0-64-bit.exe" rel="nofollow">下载</a><br>
-2.为你的电脑安装python 安装</p>
+<p>1.需要为你的电脑准备git环境以方便克隆项目 点此<a href="https://registry.npmmirror.com/-/binary/git-for-windows/v2.52.0.windows.1/Git-2.52.0-64-bit.exe" rel="nofollow">下载</a> git</p>
+<p>2.为你的电脑安装python 安装<br>
+安装python有两种方法<br>
+​法一：微软商店安装 点开你电脑的微软商店 直接搜索python下载即可</p>
+<p>法二：官网安装 点此进入python<a href="https://www.python.org/downloads/windows/" rel="nofollow">下载页</a></p>
+<p>尽量​选择最新的stable版（稳定版）下载</p>
+<p>​安装完后win+r 输入powershell回车进入命令行窗口 复制粘贴下面代码检查python和git是否安装成功</p>
+<p>检查python：</p>
+<pre class="notranslate"><code class="notranslate">python --version
+</code></pre>
+<p>检查git：</p>
+<pre class="notranslate"><code class="notranslate">git --version
+</code></pre>
+<p>显示出版本号即为成功 如下图所示</p>
+<p><a target="_blank" rel="noopener noreferrer" href="https://github.com/user-attachments/assets/29973ced-407a-469e-a646-f8777b015448"><img width="495" height="97" alt="Image" src="https://github.com/user-attachments/assets/29973ced-407a-469e-a646-f8777b015448" style="max-width: 100%; height: auto; max-height: 97px;"></a></p>
 <h2>step2 克隆项目</h2>
 <p>在你想部署的位置新建一个文件夹 比如桌面上 把文件夹名字改成英文 比如说wangyiyun然后点进文件夹 点击图示的那个框</p>
 <p><a target="_blank" rel="noopener noreferrer" href="https://github.com/user-attachments/assets/5fc0515a-be9b-4b7b-a023-edb908386a85"><img width="1117" height="631" alt="Image" src="https://github.com/user-attachments/assets/5fc0515a-be9b-4b7b-a023-edb908386a85" style="max-width: 100%; height: auto; max-height: 631px;"></a></p>
@@ -191,7 +238,11 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
 <pre class="notranslate"><code class="notranslate">git clone https://github.com/Suxiaoqinx/Netease_url.git
 cd Netease_url
 </code></pre>
-<p>直接粘贴进去 然后就会自己开始克隆项目到本地了</p></div>
+<p>直接粘贴进去 然后电脑就会自己开始克隆项目到本地了</p>
+<h2>step3 安装依赖</h2>
+<p>等待克隆完成 可以再次输入命令后 复制粘贴以下代码</p>
+<pre class="notranslate"><code class="notranslate">pip install -r requirements.txt
+</code></pre></div>
 <div style="font-size:small;margin-top:8px;float:right;"></div>
 
 </div>

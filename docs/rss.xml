@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RAYNARD的BLOG</title><link>https://beluga11716.github.io/raynard</link><description>it's not hard.it's just new</description><copyright>RAYNARD的BLOG</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/118863839?s=400&amp;u=9bece6baca5dd48bf3e0deeb51ef27df826c9d15&amp;v=4</url><title>avatar</title><link>https://beluga11716.github.io/raynard</link></image><lastBuildDate>Thu, 12 Mar 2026 03:35:53 +0000</lastBuildDate><managingEditor>RAYNARD的BLOG</managingEditor><ttl>60</ttl><webMaster>RAYNARD的BLOG</webMaster><item><title>音乐下载本地部署教程</title><link>https://beluga11716.github.io/raynard/post/yin-le-xia-zai-ben-di-bu-shu-jiao-cheng.html</link><description># 音乐下载本地部署教程
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RAYNARD的BLOG</title><link>https://beluga11716.github.io/raynard</link><description>it's not hard.it's just new</description><copyright>RAYNARD的BLOG</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/118863839?s=400&amp;u=9bece6baca5dd48bf3e0deeb51ef27df826c9d15&amp;v=4</url><title>avatar</title><link>https://beluga11716.github.io/raynard</link></image><lastBuildDate>Thu, 12 Mar 2026 03:50:53 +0000</lastBuildDate><managingEditor>RAYNARD的BLOG</managingEditor><ttl>60</ttl><webMaster>RAYNARD的BLOG</webMaster><item><title>音乐下载本地部署教程</title><link>https://beluga11716.github.io/raynard/post/yin-le-xia-zai-ben-di-bu-shu-jiao-cheng.html</link><description># 音乐下载本地部署教程
 
 &gt; [!TIP]
 &gt;急用的话可以先用[这个](https://ydl.baka.plus/)
@@ -11,19 +11,30 @@
 &gt; 本地部署不可用的时候记得回到github的仓库页面查看最新修改发布的markdown文件
 
 ## step1 准备工作
-1.需要为你的电脑准备git环境以方便克隆项目 点此[下载](https://registry.npmmirror.com/-/binary/git-for-windows/v2.52.0.windows.1/Git-2.52.0-64-bit.exe) 
+1.需要为你的电脑准备git环境以方便克隆项目 点此[下载](https://registry.npmmirror.com/-/binary/git-for-windows/v2.52.0.windows.1/Git-2.52.0-64-bit.exe) git
+
 2.为你的电脑安装python 安装
+安装python有两种方法 
+​法一：微软商店安装 点开你电脑的微软商店 直接搜索python下载即可
 
+法二：官网安装 点此进入python[下载页](https://www.python.org/downloads/windows/) 
 
+尽量​选择最新的stable版（稳定版）下载 
 
+​安装完后win+r 输入powershell回车进入命令行窗口 复制粘贴下面代码检查python和git是否安装成功
 
+检查python：
+```
+python --version
+```
+检查git：
+```
+git --version
+```
 
+显示出版本号即为成功 如下图所示
 
-
-
-
-
-
+&lt;img width='495' height='97' alt='Image' src='https://github.com/user-attachments/assets/29973ced-407a-469e-a646-f8777b015448' /&gt;
 
 ## step2 克隆项目
 在你想部署的位置新建一个文件夹 比如桌面上 把文件夹名字改成英文 比如说wangyiyun然后点进文件夹 点击图示的那个框 
@@ -39,7 +50,13 @@
 git clone https://github.com/Suxiaoqinx/Netease_url.git
 cd Netease_url
 ```
-直接粘贴进去 然后就会自己开始克隆项目到本地了
+直接粘贴进去 然后电脑就会自己开始克隆项目到本地了
+
+## step3 安装依赖 
+等待克隆完成 可以再次输入命令后 复制粘贴以下代码
+```
+pip install -r requirements.txt
+```
 
 
 
