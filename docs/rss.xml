@@ -1,5 +1,30 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RAYNARD的BLOG</title><link>https://beluga11716.github.io/raynard</link><description>it's not hard.it's just new</description><copyright>RAYNARD的BLOG</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/118863839?s=400&amp;u=9bece6baca5dd48bf3e0deeb51ef27df826c9d15&amp;v=4</url><title>avatar</title><link>https://beluga11716.github.io/raynard</link></image><lastBuildDate>Thu, 12 Mar 2026 14:12:53 +0000</lastBuildDate><managingEditor>RAYNARD的BLOG</managingEditor><ttl>60</ttl><webMaster>RAYNARD的BLOG</webMaster><item><title>将手机声音流转到电脑播放的工具</title><link>https://beluga11716.github.io/raynard/post/jiang-shou-ji-sheng-yin-liu-zhuan-dao-dian-nao-bo-fang-de-gong-ju.html</link><description>&gt; [!NOTE]
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RAYNARD的BLOG</title><link>https://beluga11716.github.io/raynard</link><description>it's not hard.it's just new</description><copyright>RAYNARD的BLOG</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/118863839?s=400&amp;u=9bece6baca5dd48bf3e0deeb51ef27df826c9d15&amp;v=4</url><title>avatar</title><link>https://beluga11716.github.io/raynard</link></image><lastBuildDate>Fri, 13 Mar 2026 15:08:39 +0000</lastBuildDate><managingEditor>RAYNARD的BLOG</managingEditor><ttl>60</ttl><webMaster>RAYNARD的BLOG</webMaster><item><title>bilibili视频下载方案</title><link>https://beluga11716.github.io/raynard/post/bilibili-shi-pin-xia-zai-fang-an.html</link><description># NO.1 Bilibili-Evolved
+[Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved) 是一个bilibili网页版增强插件 其在线市场插件的内容几乎能满足全部关于哔哩哔哩的需求 包括下载视频 音频 字幕 还有自定义播放页面的外观等等 同时使用也很方便
+
+Bilibili-Evolved安装需要用 [Tampermonkey](https://tampermonkey.net/) 常称为油猴插件
+
+&gt; [!TIP]
+&gt; 建议安装beta版 很多有趣的脚本需要在beta版上才能使用 
+
+安装完油猴插件后[点此](https://cdn.jsdelivr.net/gh/the1812/Bilibili-Evolved@master-cdn/dist/bilibili-evolved.user.js) 进行安装Bilibili-Evolved 安装完成后打开bilibili网页版 页面左侧会有两个圆图标 点击下面那个设置图标 点击下面的插件 点击在线 然后在在线仓库里就能看到下载器的插件能够安装（没有的话就在搜索框搜下载就会有了）
+
+在安装完下载器后退出设置选项 刷新一遍网页后 点击一开始左侧图标上面的功能选项 就能看到下载视频的图标了 点击下载视频 调整好下载的参数后点击开始 左下角会弹出一个弹窗 如图
+
+&lt;img width='647' height='124' alt='Image' src='https://github.com/user-attachments/assets/ae3243b4-51a4-4986-8d63-f56d2517ffb6' /&gt;
+
+点击弹窗中的视频标题 即可在浏览器下载视频
+
+Bilibili-Evolved在在线仓库里还有很多很好用的插件 具体玩法和功能可以查看[官方文档](https://github.com/the1812/Bilibili-Evolved/blob/master/doc/features/features.md)
+
+# NO.2 telegram_bot 下载
+&gt; [!CAUTION]
+&gt; 需要有一个telegram账号才能使用此方法
+
+选择一：[聚合解析姬](https://t.me/ParseHubot) 打开telegram后进入即可与**聚合解析姬**机器人对话 直接将分享链接复制粘贴发送给机器人即可 机器人会发送回视频 点击进去即可下载 
+
+选择二：[Bilibili Feed Bot](https://t.me/bilifeedbot) 也是同样的操作 但是这个只能解析b站视频
+。</description><guid isPermaLink="true">https://beluga11716.github.io/raynard/post/bilibili-shi-pin-xia-zai-fang-an.html</guid><pubDate>Fri, 13 Mar 2026 15:08:06 +0000</pubDate></item><item><title>将手机声音流转到电脑播放的工具</title><link>https://beluga11716.github.io/raynard/post/jiang-shou-ji-sheng-yin-liu-zhuan-dao-dian-nao-bo-fang-de-gong-ju.html</link><description>&gt; [!NOTE]
 &gt; 在打游戏白给时迅速拿手机开刷的工具
 
 AudioPlaybackConnector[项目地址](https://github.com/ysc3839/AudioPlaybackConnector/tree/master)
