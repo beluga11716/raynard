@@ -21,5 +21,8 @@
 > [!TIP]
 > Blibili Evolved也可以下载b站视频 点[这里](https://blog.superbeluga.top/post/bilibili-shi-pin-xia-zai-fang-an.html)了解下载b站视频方式
 
+- 安装[小电视空降助手](https://microsoftedge.microsoft.com/addons/detail/%E5%B0%8F%E7%94%B5%E8%A7%86%E7%A9%BA%E9%99%8D%E5%8A%A9%E6%89%8B/khkeolgobhdoloioehjgfpobjnmagfha) 以此来在网页版跳过视频中的恰饭广告 
 
+> 描述：恰饭？桌子都给你掀了(/= _ =)/~┴┴  带你精准空降到恰饭结束或者高能时刻，自动跳过视频中的赞助广告、订阅提醒等恼人片段。你也可以亲自标记视频中的广告来节约大家的时间。
 
+以上这些操作后基本上就可以达到我们MBGA的目的了
