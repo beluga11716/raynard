@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RAYNARD的BLOG</title><link>https://beluga11716.github.io/raynard</link><description>it's not hard.it's just new</description><copyright>RAYNARD的BLOG</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/118863839?s=400&amp;u=9bece6baca5dd48bf3e0deeb51ef27df826c9d15&amp;v=4</url><title>avatar</title><link>https://beluga11716.github.io/raynard</link></image><lastBuildDate>Sat, 14 Mar 2026 03:39:59 +0000</lastBuildDate><managingEditor>RAYNARD的BLOG</managingEditor><ttl>60</ttl><webMaster>RAYNARD的BLOG</webMaster><item><title>Make Bilibili Great Again</title><link>https://beluga11716.github.io/raynard/post/Make%20Bilibili%20Great%20Again.html</link><description># 让你的bilibili体验更好教程
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RAYNARD的BLOG</title><link>https://beluga11716.github.io/raynard</link><description>it's not hard.it's just new</description><copyright>RAYNARD的BLOG</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/118863839?s=400&amp;u=9bece6baca5dd48bf3e0deeb51ef27df826c9d15&amp;v=4</url><title>avatar</title><link>https://beluga11716.github.io/raynard</link></image><lastBuildDate>Sat, 14 Mar 2026 03:41:07 +0000</lastBuildDate><managingEditor>RAYNARD的BLOG</managingEditor><ttl>60</ttl><webMaster>RAYNARD的BLOG</webMaster><item><title>Make Bilibili Great Again</title><link>https://beluga11716.github.io/raynard/post/Make%20Bilibili%20Great%20Again.html</link><description># 让你的bilibili体验更好教程
 
 ## step1 在手机端使用更好的bilibili app
 
@@ -7,10 +7,13 @@
 
 - 在[release](https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/2.0.0.1)页面下载
 
-- 其次就是哔哩哔哩国际版 国际版几乎没有广告 但是不可以高度自定义 总体体验比较好 适合不怎么想花精力DIY 只想免去大部分广告的 而且国际版刷竖屏视频的体验较好 可以在[play store](https://play.google.com/store/apps/details?id=com.bilibili.app.in)上下载或者苹果app store下载 
+- 其次就是哔哩哔哩国际版 
 
 &gt; [!IMPORTANT]
 &gt; 需要有外网环境和Google/外区苹果 账号
+
+国际版几乎没有广告 但是不可以高度自定义 总体体验比较好 适合不怎么想花精力DIY 只想免去大部分广告的 而且国际版刷竖屏视频的体验较好 可以在[play store](https://play.google.com/store/apps/details?id=com.bilibili.app.in)上下载或者苹果app store下载 
+
 
 ## step2 在电脑上使用网页版bilibili
 用网页版的好处数不胜数 浏览器插件可以让你高度自定义你的bilibili 让你的bilibili重回一个纯粹的网站

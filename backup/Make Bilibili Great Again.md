@@ -6,10 +6,13 @@
 
 - 在[release](https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/2.0.0.1)页面下载
 
-- 其次就是哔哩哔哩国际版 国际版几乎没有广告 但是不可以高度自定义 总体体验比较好 适合不怎么想花精力DIY 只想免去大部分广告的 而且国际版刷竖屏视频的体验较好 可以在[play store](https://play.google.com/store/apps/details?id=com.bilibili.app.in)上下载或者苹果app store下载 
+- 其次就是哔哩哔哩国际版 
 
 > [!IMPORTANT]
 > 需要有外网环境和Google/外区苹果 账号
+
+国际版几乎没有广告 但是不可以高度自定义 总体体验比较好 适合不怎么想花精力DIY 只想免去大部分广告的 而且国际版刷竖屏视频的体验较好 可以在[play store](https://play.google.com/store/apps/details?id=com.bilibili.app.in)上下载或者苹果app store下载 
+
 
 ## step2 在电脑上使用网页版bilibili
 用网页版的好处数不胜数 浏览器插件可以让你高度自定义你的bilibili 让你的bilibili重回一个纯粹的网站
