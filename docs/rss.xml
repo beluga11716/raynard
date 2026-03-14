@@ -1,5 +1,30 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RAYNARD的BLOG</title><link>https://beluga11716.github.io/raynard</link><description>it's not hard.it's just new</description><copyright>RAYNARD的BLOG</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/118863839?s=400&amp;u=9bece6baca5dd48bf3e0deeb51ef27df826c9d15&amp;v=4</url><title>avatar</title><link>https://beluga11716.github.io/raynard</link></image><lastBuildDate>Fri, 13 Mar 2026 15:35:40 +0000</lastBuildDate><managingEditor>RAYNARD的BLOG</managingEditor><ttl>60</ttl><webMaster>RAYNARD的BLOG</webMaster><item><title>浏览器插件推荐</title><link>https://beluga11716.github.io/raynard/post/liu-lan-qi-cha-jian-tui-jian.html</link><description>1.**广告拦截器 [AdGuard](https://microsoftedge.microsoft.com/addons/detail/adguard-%E5%B9%BF%E5%91%8A%E6%8B%A6%E6%88%AA%E5%99%A8/pdffkfellgipmhklpdmokmckkkfcopbh)**
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RAYNARD的BLOG</title><link>https://beluga11716.github.io/raynard</link><description>it's not hard.it's just new</description><copyright>RAYNARD的BLOG</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/118863839?s=400&amp;u=9bece6baca5dd48bf3e0deeb51ef27df826c9d15&amp;v=4</url><title>avatar</title><link>https://beluga11716.github.io/raynard</link></image><lastBuildDate>Sat, 14 Mar 2026 03:27:43 +0000</lastBuildDate><managingEditor>RAYNARD的BLOG</managingEditor><ttl>60</ttl><webMaster>RAYNARD的BLOG</webMaster><item><title>Make Bilibili Great Again</title><link>https://beluga11716.github.io/raynard/post/Make%20Bilibili%20Great%20Again.html</link><description># 让你的bilibili体验更好教程
+
+## step1 在手机端使用更好的bilibili app
+
+- 建议用 [piliplus](https://github.com/bggRGjQaUbCoE/PiliPlus) 一个基于flutter开发的第三方b站客户端 动画流畅干净 高度自定义外观和功能 可以让你看视频时没有任何的打扰 内置了自动跳过视频内第三方广告功能 非常好用 
+
+- 在[release](https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/2.0.0.1)页面下载
+
+- 其次就是哔哩哔哩国际版 国际版几乎没有广告 但是不可以高度自定义 总体体验比较好 适合不怎么想花精力DIY 只想免去大部分广告的 而且国际版刷竖屏视频的体验较好 可以在[play store](https://play.google.com/store/apps/details?id=com.bilibili.app.in)上下载或者苹果app store下载 
+
+&gt; [!IMPORTANT]
+&gt; 需要有外网环境和Google/外区苹果 账号
+
+## step2 在电脑上使用网页版bilibili
+用网页版的好处数不胜数 浏览器插件可以让你高度自定义你的bilibili 让你的bilibili重回一个纯粹的网站
+
+- 为你的浏览器安装[Adguard](https://microsoftedge.microsoft.com/addons/detail/adguard-%E5%B9%BF%E5%91%8A%E6%8B%A6%E6%88%AA%E5%99%A8/pdffkfellgipmhklpdmokmckkkfcopbh?hl=zh-CN)或者[Adblock plus](https://microsoftedge.microsoft.com/addons/detail/adblock-plus-%E5%85%8D%E8%B4%B9%E7%9A%84%E5%B9%BF%E5%91%8A%E6%8B%A6%E6%88%AA%E5%99%A8/gmgoamodcdcjnbaobigkjelfplakmdhh?hl=zh-CN)这类广告拦截插件 可以拦截绝大部分不想看见的广告
+
+- 安装[Blibili Evolved](https://github.com/the1812/Bilibili-Evolved)脚本或者[bewlycat](https://microsoftedge.microsoft.com/addons/detail/bewlycat/aaammfjdfifgnfnbflolojihjfhdploj?hl=zh-CN)插件可以高度自定义你的b站外观和功能
+
+&gt; [!TIP]
+&gt; Blibili Evolved也可以下载b站视频 点[这里](https://blog.superbeluga.top/post/bilibili-shi-pin-xia-zai-fang-an.html)了解下载b站视频方式
+
+
+
+。</description><guid isPermaLink="true">https://beluga11716.github.io/raynard/post/Make%20Bilibili%20Great%20Again.html</guid><pubDate>Sat, 14 Mar 2026 03:21:51 +0000</pubDate></item><item><title>浏览器插件推荐</title><link>https://beluga11716.github.io/raynard/post/liu-lan-qi-cha-jian-tui-jian.html</link><description>1.**广告拦截器 [AdGuard](https://microsoftedge.microsoft.com/addons/detail/adguard-%E5%B9%BF%E5%91%8A%E6%8B%A6%E6%88%AA%E5%99%A8/pdffkfellgipmhklpdmokmckkkfcopbh)**
 
 &gt; 描述：AdGuard 广告拦截器可有效的拦截所有网页上的所有类型的广告，甚至是在 Facebook，Youtube 以及其它网站的广告
 

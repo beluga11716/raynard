@@ -1,0 +1,25 @@
+# 让你的bilibili体验更好教程
+
+## step1 在手机端使用更好的bilibili app
+
+- 建议用 [piliplus](https://github.com/bggRGjQaUbCoE/PiliPlus) 一个基于flutter开发的第三方b站客户端 动画流畅干净 高度自定义外观和功能 可以让你看视频时没有任何的打扰 内置了自动跳过视频内第三方广告功能 非常好用 
+
+- 在[release](https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/2.0.0.1)页面下载
+
+- 其次就是哔哩哔哩国际版 国际版几乎没有广告 但是不可以高度自定义 总体体验比较好 适合不怎么想花精力DIY 只想免去大部分广告的 而且国际版刷竖屏视频的体验较好 可以在[play store](https://play.google.com/store/apps/details?id=com.bilibili.app.in)上下载或者苹果app store下载 
+
+> [!IMPORTANT]
+> 需要有外网环境和Google/外区苹果 账号
+
+## step2 在电脑上使用网页版bilibili
+用网页版的好处数不胜数 浏览器插件可以让你高度自定义你的bilibili 让你的bilibili重回一个纯粹的网站
+
+- 为你的浏览器安装[Adguard](https://microsoftedge.microsoft.com/addons/detail/adguard-%E5%B9%BF%E5%91%8A%E6%8B%A6%E6%88%AA%E5%99%A8/pdffkfellgipmhklpdmokmckkkfcopbh?hl=zh-CN)或者[Adblock plus](https://microsoftedge.microsoft.com/addons/detail/adblock-plus-%E5%85%8D%E8%B4%B9%E7%9A%84%E5%B9%BF%E5%91%8A%E6%8B%A6%E6%88%AA%E5%99%A8/gmgoamodcdcjnbaobigkjelfplakmdhh?hl=zh-CN)这类广告拦截插件 可以拦截绝大部分不想看见的广告
+
+- 安装[Blibili Evolved](https://github.com/the1812/Bilibili-Evolved)脚本或者[bewlycat](https://microsoftedge.microsoft.com/addons/detail/bewlycat/aaammfjdfifgnfnbflolojihjfhdploj?hl=zh-CN)插件可以高度自定义你的b站外观和功能
+
+> [!TIP]
+> Blibili Evolved也可以下载b站视频 点[这里](https://blog.superbeluga.top/post/bilibili-shi-pin-xia-zai-fang-an.html)了解下载b站视频方式
+
+
+
