@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', function() {
             margin: 0 !important;
             padding: 40px 20px !important;
             display: flex !important;
-            justify-content: center !important;
+            justify-content: flex-end !important;
             align-items: flex-start !important;
             min-height: 100vh !important;
             background: url('/test/img/bg.jpg') no-repeat center center fixed !important;
