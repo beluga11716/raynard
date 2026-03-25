@@ -9,9 +9,9 @@
     "exlink":{"telegram":"https://t.me/+jjPi8QtiO2ZhMzE9"},
     "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/lightbox.js'></script>",
     "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekTOC.js'></script>",
-    "themeMode":"fix",
+    "themeMode":"manual",
     "dayTheme":"light",
-    "nightTheme":"github-light",
+    "nightTheme":"dark",
     "needComment":0,
     "GMEEK_VERSION":"last"
 }
