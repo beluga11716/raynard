@@ -9,6 +9,7 @@
     "exlink":{"telegram":"https://t.me/+jjPi8QtiO2ZhMzE9"},
     "onePageListNum":100,
     "yearColorList":["#161B22"],
+    "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/articletoc.js'></script>",
     "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/lightbox.js'></script>",
     "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekTOC.js'></script>",
     "themeMode":"manual",
