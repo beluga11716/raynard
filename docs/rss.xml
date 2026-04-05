@@ -1,13 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RAYNARD的BLOG</title><link>https://beluga11716.github.io/raynard</link><description>it's not hard.it's just new</description><copyright>RAYNARD的BLOG</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/118863839?s=400&amp;u=9bece6baca5dd48bf3e0deeb51ef27df826c9d15&amp;v=4</url><title>avatar</title><link>https://beluga11716.github.io/raynard</link></image><lastBuildDate>Sun, 05 Apr 2026 15:03:09 +0000</lastBuildDate><managingEditor>RAYNARD的BLOG</managingEditor><ttl>60</ttl><webMaster>RAYNARD的BLOG</webMaster><item><title>80个趣味网站分享</title><link>https://beluga11716.github.io/raynard/post/80-ge-qu-wei-wang-zhan-fen-xiang.html</link><description>80个趣味网站分享
-
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RAYNARD的BLOG</title><link>https://beluga11716.github.io/raynard</link><description>it's not hard.it's just new</description><copyright>RAYNARD的BLOG</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/118863839?s=400&amp;u=9bece6baca5dd48bf3e0deeb51ef27df826c9d15&amp;v=4</url><title>avatar</title><link>https://beluga11716.github.io/raynard</link></image><lastBuildDate>Sun, 05 Apr 2026 15:18:24 +0000</lastBuildDate><managingEditor>RAYNARD的BLOG</managingEditor><ttl>60</ttl><webMaster>RAYNARD的BLOG</webMaster><item><title>80个趣味网站分享</title><link>https://beluga11716.github.io/raynard/post/80-ge-qu-wei-wang-zhan-fen-xiang.html</link><description># 80个趣味网站分享
 详情：https://geekerline.com/circle/75287.html
 
-1、实时地球 网址：https://zoom.earth/
-实时图像每 10 分钟更新一次，提供风暴、天气预报、降水、火警等数据
+## 1、实时地球
+- 网址：https://zoom.earth/
+- 实时图像每 10 分钟更新一次，提供风暴、天气预报、降水、火警等数据
 
-2、陕西博物馆 360 度实景浏览 网址：https://www.sxhm.com/online.html/
-线上参观陕西博物馆，360度展示，共有五个展厅100多个场景。</description><guid isPermaLink="true">https://beluga11716.github.io/raynard/post/80-ge-qu-wei-wang-zhan-fen-xiang.html</guid><pubDate>Sun, 05 Apr 2026 14:38:22 +0000</pubDate></item><item><title>Tempermonkey脚本推荐</title><link>https://beluga11716.github.io/raynard/post/Tempermonkey-jiao-ben-tui-jian.html</link><description>## step1 下载Tempermonkey
+## 2、陕西博物馆 360 度实景浏览
+- 网址：https://www.sxhm.com/online.html/
+- 线上参观陕西博物馆，360度展示，共有五个展厅100多个场景。</description><guid isPermaLink="true">https://beluga11716.github.io/raynard/post/80-ge-qu-wei-wang-zhan-fen-xiang.html</guid><pubDate>Sun, 05 Apr 2026 14:38:22 +0000</pubDate></item><item><title>Tempermonkey脚本推荐</title><link>https://beluga11716.github.io/raynard/post/Tempermonkey-jiao-ben-tui-jian.html</link><description>## step1 下载Tempermonkey
 &gt; [!NOTE]
 &gt; 如果你已经安装了Tempermonkey可以跳过这一步
 
