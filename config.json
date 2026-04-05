@@ -10,7 +10,6 @@
     "onePageListNum":100,
     "yearColorList":["#161B22"],
     "urlMode":"issue",
-    "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekTOC.js'></script>",
     "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/lightbox.js'></script>",
     "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/lightbox.js'></script><script src='https://blog.meekdai.com/Gmeek/plugins/articletoc.js'></script>",
     "themeMode":"manual",
