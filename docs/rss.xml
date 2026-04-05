@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RAYNARD的BLOG</title><link>https://beluga11716.github.io/raynard</link><description>it's not hard.it's just new</description><copyright>RAYNARD的BLOG</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/118863839?s=400&amp;u=9bece6baca5dd48bf3e0deeb51ef27df826c9d15&amp;v=4</url><title>avatar</title><link>https://beluga11716.github.io/raynard</link></image><lastBuildDate>Sun, 05 Apr 2026 15:37:08 +0000</lastBuildDate><managingEditor>RAYNARD的BLOG</managingEditor><ttl>60</ttl><webMaster>RAYNARD的BLOG</webMaster><item><title>80个趣味网站分享</title><link>https://beluga11716.github.io/raynard/post/20.html</link><description>## 1、实时地球
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RAYNARD的BLOG</title><link>https://beluga11716.github.io/raynard</link><description>it's not hard.it's just new</description><copyright>RAYNARD的BLOG</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/118863839?s=400&amp;u=9bece6baca5dd48bf3e0deeb51ef27df826c9d15&amp;v=4</url><title>avatar</title><link>https://beluga11716.github.io/raynard</link></image><lastBuildDate>Sun, 05 Apr 2026 16:49:13 +0000</lastBuildDate><managingEditor>RAYNARD的BLOG</managingEditor><ttl>60</ttl><webMaster>RAYNARD的BLOG</webMaster><item><title>80个趣味网站分享</title><link>https://beluga11716.github.io/raynard/post/80%E4%B8%AA%E8%B6%A3%E5%91%B3%E7%BD%91%E7%AB%99%E5%88%86%E4%BA%AB.html</link><description>## 1、实时地球
 - 网址：https://zoom.earth/
 - 实时图像每 10 分钟更新一次，提供风暴、天气预报、降水、火警等数据
 
 ## 2、陕西博物馆 360 度实景浏览
 - 网址：https://www.sxhm.com/online.html/
-- 线上参观陕西博物馆，360度展示，共有五个展厅100多个场景。</description><guid isPermaLink="true">https://beluga11716.github.io/raynard/post/20.html</guid><pubDate>Sun, 05 Apr 2026 14:38:22 +0000</pubDate></item><item><title>Tempermonkey脚本推荐</title><link>https://beluga11716.github.io/raynard/post/19.html</link><description>## step1 下载Tempermonkey
+- 线上参观陕西博物馆，360度展示，共有五个展厅100多个场景。</description><guid isPermaLink="true">https://beluga11716.github.io/raynard/post/80%E4%B8%AA%E8%B6%A3%E5%91%B3%E7%BD%91%E7%AB%99%E5%88%86%E4%BA%AB.html</guid><pubDate>Sun, 05 Apr 2026 14:38:22 +0000</pubDate></item><item><title>Tempermonkey脚本推荐</title><link>https://beluga11716.github.io/raynard/post/Tempermonkey%E8%84%9A%E6%9C%AC%E6%8E%A8%E8%8D%90.html</link><description>## step1 下载Tempermonkey
 &gt; [!NOTE]
 &gt; 如果你已经安装了Tempermonkey可以跳过这一步
 
@@ -38,13 +38,13 @@
 
 目前在用的脚本如下
 
-&lt;img width='1023' height='473' alt='Image' src='https://github.com/user-attachments/assets/b2d2ea67-33ff-45b5-9652-f0dc4fa6380d' /&gt;。</description><guid isPermaLink="true">https://beluga11716.github.io/raynard/post/19.html</guid><pubDate>Sat, 04 Apr 2026 05:48:12 +0000</pubDate></item><item><title>wakeup课程表</title><link>https://beluga11716.github.io/raynard/post/18.html</link><description>wakeup课程表本来是个人作者制作的 后面被大厂收购之后加了很多不必要的广告 有时候弹出的弹窗广告gkd都识别不了 这里给出其个人作者收购前更新的最后一版6.0.22 纯净无广告 带小组件 一个纯粹的课表软件
+&lt;img width='1023' height='473' alt='Image' src='https://github.com/user-attachments/assets/b2d2ea67-33ff-45b5-9652-f0dc4fa6380d' /&gt;。</description><guid isPermaLink="true">https://beluga11716.github.io/raynard/post/Tempermonkey%E8%84%9A%E6%9C%AC%E6%8E%A8%E8%8D%90.html</guid><pubDate>Sat, 04 Apr 2026 05:48:12 +0000</pubDate></item><item><title>wakeup课程表</title><link>https://beluga11716.github.io/raynard/post/wakeup%E8%AF%BE%E7%A8%8B%E8%A1%A8.html</link><description>wakeup课程表本来是个人作者制作的 后面被大厂收购之后加了很多不必要的广告 有时候弹出的弹窗广告gkd都识别不了 这里给出其个人作者收购前更新的最后一版6.0.22 纯净无广告 带小组件 一个纯粹的课表软件
 [下载点此](https://wwbaq.lanzouu.com/iyAfJ3mdrpfg) 
 
-密码：beluga。</description><guid isPermaLink="true">https://beluga11716.github.io/raynard/post/18.html</guid><pubDate>Sat, 04 Apr 2026 03:13:56 +0000</pubDate></item><item><title>反代访问github</title><link>https://beluga11716.github.io/raynard/post/16.html</link><description>https://gh.2x.nz
+密码：beluga。</description><guid isPermaLink="true">https://beluga11716.github.io/raynard/post/wakeup%E8%AF%BE%E7%A8%8B%E8%A1%A8.html</guid><pubDate>Sat, 04 Apr 2026 03:13:56 +0000</pubDate></item><item><title>反代访问github</title><link>https://beluga11716.github.io/raynard/post/%E5%8F%8D%E4%BB%A3%E8%AE%BF%E9%97%AEgithub.html</link><description>https://gh.2x.nz
 提供自b站up主[二叉树树](https://space.bilibili.com/325903362)
 在他的个人博客 [你...买 Cloudflare Pro 了吗？来玩超级牛逼的 Snippets ！](https://2x.nz/posts/snippets/)这篇文章下有docker反代和telegram api反代
-。</description><guid isPermaLink="true">https://beluga11716.github.io/raynard/post/16.html</guid><pubDate>Sat, 21 Mar 2026 09:59:46 +0000</pubDate></item><item><title>Make Bilibili Great Again</title><link>https://beluga11716.github.io/raynard/post/15.html</link><description># 让你的bilibili体验更好教程
+。</description><guid isPermaLink="true">https://beluga11716.github.io/raynard/post/%E5%8F%8D%E4%BB%A3%E8%AE%BF%E9%97%AEgithub.html</guid><pubDate>Sat, 21 Mar 2026 09:59:46 +0000</pubDate></item><item><title>Make Bilibili Great Again</title><link>https://beluga11716.github.io/raynard/post/Make-Bilibili-Great-Again.html</link><description># 让你的bilibili体验更好教程
 
 ## step1 在手机端使用更好的bilibili app
 
@@ -72,13 +72,13 @@
 
 - 安装[小电视空降助手](https://microsoftedge.microsoft.com/addons/detail/%E5%B0%8F%E7%94%B5%E8%A7%86%E7%A9%BA%E9%99%8D%E5%8A%A9%E6%89%8B/khkeolgobhdoloioehjgfpobjnmagfha) 以此来在网页版跳过视频中的恰饭广告 
 
-&gt; 描述：恰饭？桌子都给你掀了(/= _ =)/~┴┴  带你精准空降到恰饭结束或者高能时刻，自动跳过视频中的赞助广告、订阅提醒等恼人片段。</description><guid isPermaLink="true">https://beluga11716.github.io/raynard/post/15.html</guid><pubDate>Sat, 14 Mar 2026 03:21:51 +0000</pubDate></item><item><title>浏览器插件推荐</title><link>https://beluga11716.github.io/raynard/post/14.html</link><description>1.**广告拦截器 [AdGuard](https://microsoftedge.microsoft.com/addons/detail/adguard-%E5%B9%BF%E5%91%8A%E6%8B%A6%E6%88%AA%E5%99%A8/pdffkfellgipmhklpdmokmckkkfcopbh)**
+&gt; 描述：恰饭？桌子都给你掀了(/= _ =)/~┴┴  带你精准空降到恰饭结束或者高能时刻，自动跳过视频中的赞助广告、订阅提醒等恼人片段。</description><guid isPermaLink="true">https://beluga11716.github.io/raynard/post/Make-Bilibili-Great-Again.html</guid><pubDate>Sat, 14 Mar 2026 03:21:51 +0000</pubDate></item><item><title>浏览器插件推荐</title><link>https://beluga11716.github.io/raynard/post/%E6%B5%8F%E8%A7%88%E5%99%A8%E6%8F%92%E4%BB%B6%E6%8E%A8%E8%8D%90.html</link><description>1.**广告拦截器 [AdGuard](https://microsoftedge.microsoft.com/addons/detail/adguard-%E5%B9%BF%E5%91%8A%E6%8B%A6%E6%88%AA%E5%99%A8/pdffkfellgipmhklpdmokmckkkfcopbh)**
 
 &gt; 描述：AdGuard 广告拦截器可有效的拦截所有网页上的所有类型的广告，甚至是在 Facebook，Youtube 以及其它网站的广告
 
 2.**视频速度控制插件 [Global Speed](https://microsoftedge.microsoft.com/addons/detail/global-speed-%E8%A7%86%E9%A2%91%E9%80%9F%E5%BA%A6%E6%8E%A7%E5%88%B6/mjhlabbcmjflkpjknnicihkfnmbdfced?hl=zh-CN)** 
 
-&gt; 描述：全面掌控你的在线视频与音频。</description><guid isPermaLink="true">https://beluga11716.github.io/raynard/post/14.html</guid><pubDate>Fri, 13 Mar 2026 15:35:09 +0000</pubDate></item><item><title>bilibili视频下载方案</title><link>https://beluga11716.github.io/raynard/post/13.html</link><description># NO.1 Bilibili-Evolved
+&gt; 描述：全面掌控你的在线视频与音频。</description><guid isPermaLink="true">https://beluga11716.github.io/raynard/post/%E6%B5%8F%E8%A7%88%E5%99%A8%E6%8F%92%E4%BB%B6%E6%8E%A8%E8%8D%90.html</guid><pubDate>Fri, 13 Mar 2026 15:35:09 +0000</pubDate></item><item><title>bilibili视频下载方案</title><link>https://beluga11716.github.io/raynard/post/bilibili%E8%A7%86%E9%A2%91%E4%B8%8B%E8%BD%BD%E6%96%B9%E6%A1%88.html</link><description># NO.1 Bilibili-Evolved
 [Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved) 是一个bilibili网页版增强插件 其在线市场插件的内容几乎能满足全部关于哔哩哔哩的需求 包括下载视频 音频 字幕 还有自定义播放页面的外观等等 同时使用也很方便
 
 Bilibili-Evolved安装需要用 [Tampermonkey](https://tampermonkey.net/) 常称为油猴插件
@@ -103,7 +103,7 @@ Bilibili-Evolved在在线仓库里还有很多很好用的插件 具体玩法和
 选择一：[聚合解析姬](https://t.me/ParseHubot) 打开telegram后进入即可与**聚合解析姬**机器人对话 直接将分享链接复制粘贴发送给机器人即可 机器人会发送回视频 点击进去即可下载 
 
 选择二：[Bilibili Feed Bot](https://t.me/bilifeedbot) 也是同样的操作 但是这个只能解析b站视频
-。</description><guid isPermaLink="true">https://beluga11716.github.io/raynard/post/13.html</guid><pubDate>Fri, 13 Mar 2026 15:08:06 +0000</pubDate></item><item><title>声音流转方法</title><link>https://beluga11716.github.io/raynard/post/12.html</link><description># 提供一些手机和电脑声音相互流转的方法
+。</description><guid isPermaLink="true">https://beluga11716.github.io/raynard/post/bilibili%E8%A7%86%E9%A2%91%E4%B8%8B%E8%BD%BD%E6%96%B9%E6%A1%88.html</guid><pubDate>Fri, 13 Mar 2026 15:08:06 +0000</pubDate></item><item><title>声音流转方法</title><link>https://beluga11716.github.io/raynard/post/%E5%A3%B0%E9%9F%B3%E6%B5%81%E8%BD%AC%E6%96%B9%E6%B3%95.html</link><description># 提供一些手机和电脑声音相互流转的方法
 
 ## 1.手机或其他设备流转至电脑
 
@@ -146,7 +146,7 @@ AudioPlaybackConnector[release页面](https://github.com/ysc3839/AudioPlaybackCo
 
 来到手机端 下载安装完软件之后打开 把电脑上刚复制的ip填进去 点击开始就行 下面日志显示**已开始**就说明成功连接了 这时候就能听到电脑的声音从手机上传出 
 
-不成功的话在电脑端的ip旁的小箭头可以选择ip 换下ip再重复一遍操作就行。</description><guid isPermaLink="true">https://beluga11716.github.io/raynard/post/12.html</guid><pubDate>Thu, 12 Mar 2026 05:11:08 +0000</pubDate></item><item><title>音乐下载本地部署教程</title><link>https://beluga11716.github.io/raynard/post/11.html</link><description># 音乐下载本地部署教程
+不成功的话在电脑端的ip旁的小箭头可以选择ip 换下ip再重复一遍操作就行。</description><guid isPermaLink="true">https://beluga11716.github.io/raynard/post/%E5%A3%B0%E9%9F%B3%E6%B5%81%E8%BD%AC%E6%96%B9%E6%B3%95.html</guid><pubDate>Thu, 12 Mar 2026 05:11:08 +0000</pubDate></item><item><title>音乐下载本地部署教程</title><link>https://beluga11716.github.io/raynard/post/%E9%9F%B3%E4%B9%90%E4%B8%8B%E8%BD%BD%E6%9C%AC%E5%9C%B0%E9%83%A8%E7%BD%B2%E6%95%99%E7%A8%8B.html</link><description># 音乐下载本地部署教程
 此方法最好要有网易云的会员账户 不然只能下载不需要vip的歌
 &gt; [!TIP]
 &gt;急用的话可以先用[这个](https://ydl.baka.plus/)
@@ -260,7 +260,7 @@ py main.py
 
 在命令行窗口摁ctrl+c即可退出
 
-。</description><guid isPermaLink="true">https://beluga11716.github.io/raynard/post/11.html</guid><pubDate>Thu, 05 Mar 2026 15:12:23 +0000</pubDate></item><item><title>如何拥有一个自己的免费博客</title><link>https://beluga11716.github.io/raynard/post/10.html</link><description>## step1 准备工作
+。</description><guid isPermaLink="true">https://beluga11716.github.io/raynard/post/%E9%9F%B3%E4%B9%90%E4%B8%8B%E8%BD%BD%E6%9C%AC%E5%9C%B0%E9%83%A8%E7%BD%B2%E6%95%99%E7%A8%8B.html</guid><pubDate>Thu, 05 Mar 2026 15:12:23 +0000</pubDate></item><item><title>如何拥有一个自己的免费博客</title><link>https://beluga11716.github.io/raynard/post/%E5%A6%82%E4%BD%95%E6%8B%A5%E6%9C%89%E4%B8%80%E4%B8%AA%E8%87%AA%E5%B7%B1%E7%9A%84%E5%85%8D%E8%B4%B9%E5%8D%9A%E5%AE%A2.html</link><description>## step1 准备工作
 需要一个github账号 没有的可以点[这里](https://github.com/signup?source=login)创建一个
 
 &gt; [!TIP]
@@ -301,7 +301,7 @@ py main.py
 
 2.[gmeek原教程](https://blog.meekdai.com/post/Gmeek-kuai-su-shang-shou.html)
 
-。</description><guid isPermaLink="true">https://beluga11716.github.io/raynard/post/10.html</guid><pubDate>Sun, 01 Mar 2026 15:03:22 +0000</pubDate></item><item><title>漫画软件</title><link>https://beluga11716.github.io/raynard/post/9.html</link><description># **_- Venera_**  
+。</description><guid isPermaLink="true">https://beluga11716.github.io/raynard/post/%E5%A6%82%E4%BD%95%E6%8B%A5%E6%9C%89%E4%B8%80%E4%B8%AA%E8%87%AA%E5%B7%B1%E7%9A%84%E5%85%8D%E8%B4%B9%E5%8D%9A%E5%AE%A2.html</guid><pubDate>Sun, 01 Mar 2026 15:03:22 +0000</pubDate></item><item><title>漫画软件</title><link>https://beluga11716.github.io/raynard/post/%E6%BC%AB%E7%94%BB%E8%BD%AF%E4%BB%B6.html</link><description># **_- Venera_**  
 
 &lt;img width='178' height='78' alt='Image' src='https://github.com/user-attachments/assets/cc684bdd-ccf7-4c49-bdbe-807139f9f700' /&gt;
 
@@ -354,7 +354,7 @@ A comic reader that support reading local and network comics.
 
 
 
-。</description><guid isPermaLink="true">https://beluga11716.github.io/raynard/post/9.html</guid><pubDate>Sun, 01 Mar 2026 11:07:37 +0000</pubDate></item><item><title>动漫软件</title><link>https://beluga11716.github.io/raynard/post/8.html</link><description># **_- kazumi_** 
+。</description><guid isPermaLink="true">https://beluga11716.github.io/raynard/post/%E6%BC%AB%E7%94%BB%E8%BD%AF%E4%BB%B6.html</guid><pubDate>Sun, 01 Mar 2026 11:07:37 +0000</pubDate></item><item><title>动漫软件</title><link>https://beluga11716.github.io/raynard/post/%E5%8A%A8%E6%BC%AB%E8%BD%AF%E4%BB%B6.html</link><description># **_- kazumi_** 
 
 基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率
 
@@ -376,10 +376,10 @@ _原项目地址：https://github.com/open-ani/animeko_
 _下载链接：https://github.com/open-ani/animeko/releases/tag/v5.2.0_
 
 
-。</description><guid isPermaLink="true">https://beluga11716.github.io/raynard/post/8.html</guid><pubDate>Sun, 01 Mar 2026 11:06:52 +0000</pubDate></item><item><title>实用工具推荐</title><link>https://beluga11716.github.io/raynard/post/7.html</link><description>- 🧰[新机必备](https://wwbaq.lanzouu.com/b009huh8tc) 密码：beluga
+。</description><guid isPermaLink="true">https://beluga11716.github.io/raynard/post/%E5%8A%A8%E6%BC%AB%E8%BD%AF%E4%BB%B6.html</guid><pubDate>Sun, 01 Mar 2026 11:06:52 +0000</pubDate></item><item><title>实用工具推荐</title><link>https://beluga11716.github.io/raynard/post/%E5%AE%9E%E7%94%A8%E5%B7%A5%E5%85%B7%E6%8E%A8%E8%8D%90.html</link><description>- 🧰[新机必备](https://wwbaq.lanzouu.com/b009huh8tc) 密码：beluga
 - 🌏[一些上网科技相关的网站](https://c.c1nd.cn/raynard_tech)
 - 🖥️[好用的windows应用推荐](https://blog.meekdai.com/post/hao-yong-de-Windows-ying-yong-tui-jian.html)
-- 🎵[音乐下载网站](https://ydl.baka.plus/) 。</description><guid isPermaLink="true">https://beluga11716.github.io/raynard/post/7.html</guid><pubDate>Sun, 01 Mar 2026 11:05:37 +0000</pubDate></item><item><title>激活windows</title><link>https://beluga11716.github.io/raynard/post/6.html</link><description># 激活windows最简单的方法
+- 🎵[音乐下载网站](https://ydl.baka.plus/) 。</description><guid isPermaLink="true">https://beluga11716.github.io/raynard/post/%E5%AE%9E%E7%94%A8%E5%B7%A5%E5%85%B7%E6%8E%A8%E8%8D%90.html</guid><pubDate>Sun, 01 Mar 2026 11:05:37 +0000</pubDate></item><item><title>激活windows</title><link>https://beluga11716.github.io/raynard/post/%E6%BF%80%E6%B4%BBwindows.html</link><description># 激活windows最简单的方法
 按住 Win+X ，选择 windows powershell(管理员)，
 
 输入：
@@ -392,7 +392,7 @@ _下载链接：https://github.com/open-ani/animeko/releases/tag/v5.2.0_
 
 快速激活windows 10 / 11
 
-Win就是Ctrl和Alt之间的那个键。</description><guid isPermaLink="true">https://beluga11716.github.io/raynard/post/6.html</guid><pubDate>Sun, 01 Mar 2026 11:03:56 +0000</pubDate></item><item><title>下载Trollstore巨魔商店</title><link>https://beluga11716.github.io/raynard/post/5.html</link><description># 苹果ipa自签名应用巨魔商店
+Win就是Ctrl和Alt之间的那个键。</description><guid isPermaLink="true">https://beluga11716.github.io/raynard/post/%E6%BF%80%E6%B4%BBwindows.html</guid><pubDate>Sun, 01 Mar 2026 11:03:56 +0000</pubDate></item><item><title>下载Trollstore巨魔商店</title><link>https://beluga11716.github.io/raynard/post/%E4%B8%8B%E8%BD%BDTrollstore%E5%B7%A8%E9%AD%94%E5%95%86%E5%BA%97.html</link><description># 苹果ipa自签名应用巨魔商店
 
 通過巨魔商店让你的非官方ipa应用能够安装在设备上 并永久签名
 
@@ -436,7 +436,7 @@ Win就是Ctrl和Alt之间的那个键。</description><guid isPermaLink="true">h
 如果正常完成了 设备会再一次重启 然后你的桌面上就会有TrollStore了
 
 使用就比较简单 下载一个ipa程序后选择用巨魔商店打开就行 它会问你要不要下载 直接install就行 然后你就成功安装了想要的app 并且是永久自签的
-。</description><guid isPermaLink="true">https://beluga11716.github.io/raynard/post/5.html</guid><pubDate>Sun, 01 Mar 2026 10:59:55 +0000</pubDate></item><item><title>pt.3</title><link>https://beluga11716.github.io/raynard/post/4.html</link><description>
+。</description><guid isPermaLink="true">https://beluga11716.github.io/raynard/post/%E4%B8%8B%E8%BD%BDTrollstore%E5%B7%A8%E9%AD%94%E5%95%86%E5%BA%97.html</guid><pubDate>Sun, 01 Mar 2026 10:59:55 +0000</pubDate></item><item><title>pt.3</title><link>https://beluga11716.github.io/raynard/post/pt.3.html</link><description>
 ## Pt.3 不同代理的使用方法
 
 ## 1.Clash meta for Andriod
@@ -484,7 +484,7 @@ Clash verge和Clash meta差不多
 ## 4.V2rayN&amp;V2rayNG
 
 可参考[Pt.0](https://blog.superbeluga.top/post/pt.0.html)
-。</description><guid isPermaLink="true">https://beluga11716.github.io/raynard/post/4.html</guid><pubDate>Sun, 01 Mar 2026 10:58:03 +0000</pubDate></item><item><title>pt.2</title><link>https://beluga11716.github.io/raynard/post/3.html</link><description># **Pt2 如何使用代理软件**
+。</description><guid isPermaLink="true">https://beluga11716.github.io/raynard/post/pt.3.html</guid><pubDate>Sun, 01 Mar 2026 10:58:03 +0000</pubDate></item><item><title>pt.2</title><link>https://beluga11716.github.io/raynard/post/pt.2.html</link><description># **Pt2 如何使用代理软件**
 
 要使用这些代理软件我们需要一种叫机场的东西 
 
@@ -515,7 +515,7 @@ _网易邮箱格式为：你的手机号@163.com_
 
 根据你用的代理软件 点击复制链接 在机场的操作就完成了
 
-[Pt.3不同代理的使用方法](https://blog.superbeluga.top/post/pt.3.html)。</description><guid isPermaLink="true">https://beluga11716.github.io/raynard/post/3.html</guid><pubDate>Sun, 01 Mar 2026 10:57:23 +0000</pubDate></item><item><title>pt.1</title><link>https://beluga11716.github.io/raynard/post/2.html</link><description>**_一篇关于代理上网的笔记_**
+[Pt.3不同代理的使用方法](https://blog.superbeluga.top/post/pt.3.html)。</description><guid isPermaLink="true">https://beluga11716.github.io/raynard/post/pt.2.html</guid><pubDate>Sun, 01 Mar 2026 10:57:23 +0000</pubDate></item><item><title>pt.1</title><link>https://beluga11716.github.io/raynard/post/pt.1.html</link><description>**_一篇关于代理上网的笔记_**
 
 # **Pt1比较热门的代理软件有**
 
@@ -570,7 +570,7 @@ _网易邮箱格式为：你的手机号@163.com_
 # ξ( ✿＞◡❛)111
 
 
-。</description><guid isPermaLink="true">https://beluga11716.github.io/raynard/post/2.html</guid><pubDate>Sun, 01 Mar 2026 10:56:31 +0000</pubDate></item><item><title>pt.0</title><link>https://beluga11716.github.io/raynard/post/1.html</link><description>## _本篇收集了转载到网上的不同代理软件的使用教程_
+。</description><guid isPermaLink="true">https://beluga11716.github.io/raynard/post/pt.1.html</guid><pubDate>Sun, 01 Mar 2026 10:56:31 +0000</pubDate></item><item><title>pt.0</title><link>https://beluga11716.github.io/raynard/post/pt.0.html</link><description>## _本篇收集了转载到网上的不同代理软件的使用教程_
 &gt; [!warning]
 &gt; 以下教程里的广告不要信
 
@@ -580,4 +580,4 @@ _V2rayNG：https://v2rayng.wiki/_
 _V2rayN：https://v2rayn.la/tutorial/_
 _Shadowrocket：https://doc.theojs.cn/serve/antiwall/shadowrocket_
 
-&lt;!-- ##{'script':'&lt;script src='https://blog.meekdai.com/Gmeek/plugins/GmeekTOC.js'&gt;&lt;/script&gt;'}## --&gt;。</description><guid isPermaLink="true">https://beluga11716.github.io/raynard/post/1.html</guid><pubDate>Sun, 01 Mar 2026 10:55:37 +0000</pubDate></item></channel></rss>
+&lt;!-- ##{'script':'&lt;script src='https://blog.meekdai.com/Gmeek/plugins/GmeekTOC.js'&gt;&lt;/script&gt;'}## --&gt;。</description><guid isPermaLink="true">https://beluga11716.github.io/raynard/post/pt.0.html</guid><pubDate>Sun, 01 Mar 2026 10:55:37 +0000</pubDate></item></channel></rss>
